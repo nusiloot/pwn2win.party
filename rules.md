@@ -24,9 +24,9 @@ TBA
 
 ## Follow us:
 
-[@eltctfbr](https://twitter.com/eltctfbr)
+[@eltctfbr](https://twitter.com/eltctfbr){:target="_blank"}
 
-[@pwn2win](https://twitter.com/pwn2win)
+[@pwn2win](https://twitter.com/pwn2win){:target="_blank"}
 
 
 ## Prizes:
@@ -37,8 +37,7 @@ TBA
 
 **Top 3**: Internet Fame level Bronze + Personalized Certificates
 
- * The personalized certificates are just like "medals" from the event, something that you will use to testify your participation and Top 3 in
-this *hardcore *competition.
+ * The personalized certificates are just like "medals" from the event, something that you will use to testify your participation and Top 3 in this *hardcore *competition.
 
 ## Observations:
 
@@ -62,13 +61,13 @@ Ok, and now, for the more informative rules...
 
 **6** - Clues will be given in a direct or indirect form in our IRC channel, stay alert! :)
 
-**7** - The flag pattern will be as follows: **CTF-BR{something\_here};**
+**7** - The flag pattern will be as follows: **CTF-BR{something_here};**
 
 **8** - The competition will last for 48 hours in a row, no breaks;
 
 **9** - The teams may have as many members as they want;
 
-**10** - Any kind of violation of these rules will mean immediate disqualification of the team;\
+**10** - Any kind of violation of these rules will mean immediate disqualification of the team;
 
 **11** - Most important rule: Have fun and Learn a lot! :)
 
@@ -76,7 +75,7 @@ Ok, and now, for the more informative rules...
 
 Our judges will be the operators in the **#Pwn2Win** channel (Freenode). Any Doubts, talk to them.
 
-Like in the second edition,  we'll do a **Thematic CTF**. Every challenge context will revolve around a ficticional story. Also the Jeopardy challenges, inside various categories (including subjects like **Hardware**). This time, we choose to use a dynamic scoreboard system, where all challenges starts with 500 points, and according to the amount of solves, they decrease the score.
+Like in the second edition,  we'll do a **Thematic CTF**. Every challenge context will revolve around a ficticional story. Also the Jeopardy challenges, inside various categories (including subjects like **Hardware Hacking**). This time, we choose to use a dynamic scoreboard system, where all challenges starts with 500 points, and according to the amount of solves, they decrease the score.
 
 ## Winner:
 
@@ -84,15 +83,15 @@ The winner team will be the one to score the largest within the 48 hours. In the
 
 ## Sponsors:
 
-![](http://pwn2win.party/imgs/aperture_science.png)
+![](http://pwn2win.party/imgs/aperture_science.png){:target="_blank"}
 
 ## Infra Sponsor:
 
-[![](http://pwn2win.party/imgs/gcp.png)](https://g.co/cloud)
+[![](http://pwn2win.party/imgs/gcp.png)](https://g.co/cloud){:target="_blank"}
 
 ## Partners:
 
-[![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/)  [![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/)
+[![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/){:target="_blank"}  [![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/){:target="_blank"}
 
               
 
