@@ -108,21 +108,19 @@ A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empa
 ## PATROCINADORES:
 ---------------
 
-![](http://pwn2win.party/assets/imgs/aperture_science.png)
+![](http://pwn2win.party/imgs/aperture_science.png)
 
 
 INFRA SPONSOR:
 --------------
 
-[![](http://pwn2win.party/assets/imgs/gcp.png)](https://g.co/cloud/)
+[![](http://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/)
 
 
 ## PARCEIROS:
 ----------
 
-[![](https://pwn2win.party/assets/imgs/ctfbr_logo.png)](https://www.ctf-br.org/) 
-           
-  [![](https://pwn2win.party/assets/imgs/logoUFSCar.svg)](https://www2.ufscar.br/) 
+[![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/)  [![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/)
 
 
 ## CONTATO:
