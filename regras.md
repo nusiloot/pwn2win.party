@@ -106,19 +106,16 @@ Nosso CTF será **temático**. Todos os *challenges* estarão ambientados em um 
 A equipe vencedora será a que pontuar mais dentro das 48 horas. Em caso de empate, será campeã a que chegou em menos tempo na pontuação de primeira colocada.
 
 ## PATROCINADORES:
----------------
 
 ![](http://pwn2win.party/imgs/aperture_science.png){:target="_blank"}
 
 
-INFRA SPONSOR:
---------------
+## INFRA SPONSOR:
 
 [![](http://pwn2win.party/imgs/gcp.png)](https://g.co/cloud/){:target="_blank"}
 
 
 ## PARCEIROS:
-----------
 
 [![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/){:target="_blank"}  [![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/){:target="_blank"}
 
