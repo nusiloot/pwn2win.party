@@ -14,11 +14,11 @@ markdown: kramdown
 
 Navigation:
 - title: Home
-  url: /index.html
+   url: /index.html
 - title: Let's Play
-  url: https://pwn2.win
+   url: https://pwn2.win
 - title: Rules
-  url: /rules.md
+   url: /rules.md
  - title: Regras
-  url: /regras.md
+   url: /regras.md
 
