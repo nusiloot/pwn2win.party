@@ -7,7 +7,7 @@ permalink: /rules/
 ## Who is behind it?
 
 
-The Pwn2Win CTF is being organized by members from '[Epic LeetTeam](https://ctftime.org/team/9061)', a brazilian CTF team.
+The Pwn2Win CTF is being organized by members from '[Epic Leet Team](https://ctftime.org/team/9061)', a brazilian CTF team.
 
 ## When:
 
@@ -92,8 +92,7 @@ The winner team will be the one to score the largest within the 48 hours. In the
 
 ## Partners:
 
-[![](https://pwn2win.party/assets/imgs/ctfbr_logo.png)](https://www.ctf-br.org) \
-[ ![](https://pwn2win.party/assets/imgs/logoUFSCar.svg)](https://www2.ufscar.br/) 
+[![](https://pwn2win.party/assets/imgs/ctfbr_logo.png)](https://www.ctf-br.org) | [![](https://pwn2win.party/assets/imgs/logoUFSCar.svg)](https://www2.ufscar.br/) 
               
 
 ## Contact:
