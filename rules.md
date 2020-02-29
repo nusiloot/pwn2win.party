@@ -84,19 +84,15 @@ The winner team will be the one to score the largest within the 48 hours. In the
 
 ## Sponsors:
 
-![](http://pwn2win.party/assets/imgs/aperture_science.png)
+![](http://pwn2win.party/imgs/aperture_science.png)
 
 ## Infra Sponsor:
 
-[![](http://pwn2win.party/assets/imgs/gcp.png)](https://g.co/cloud)
+[![](http://pwn2win.party/imgs/gcp.png)](https://g.co/cloud)
 
 ## Partners:
 
-CTF-BR             |  UFSCar
-:-------------------------:|:-------------------------:
-[![](https://pwn2win.party/assets/imgs/ctfbr_logo.png)](https://www.ctf-br.org))  |  [![](https://pwn2win.party/assets/imgs/logoUFSCar.svg)](https://www2.ufscar.br/) 
-
- 
+[![](https://pwn2win.party/assets/imgs/logoUFSCar.svg)](https://www2.ufscar.br/)  [![](https://pwn2win.party/assets/imgs/ctfbr_logo.png)](https://ctf-br.org/) 
 
               
 
