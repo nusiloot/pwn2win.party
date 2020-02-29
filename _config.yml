@@ -12,3 +12,13 @@ comments: false
 # Build settings
 markdown: kramdown
 
+Navigation:
+- title: Home
+ url: /index.html
+- title: Let's Play
+ url: https://pwn2.win
+- title: Rules
+ url: /rules.md
+ - title: Regras
+ url: /regras.md
+
