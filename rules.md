@@ -92,7 +92,7 @@ The winner team will be the one to score the largest within the 48 hours. In the
 
 ## Partners:
 
-[![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/)  [![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/) 
+[![](https://pwn2win.party/imgs/ctfbr_logo.png)](https://ctf-br.org/)  [![](https://pwn2win.party/imgs/logoUFSCar.svg)](https://www2.ufscar.br/)
 
               
 
