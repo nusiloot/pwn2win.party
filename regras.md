@@ -82,15 +82,25 @@ Começamos pela parte burocrática, ou seja, o que você e seu time **NÃO**
 podem fazer. :)
 
 **1**.  É expressamente proibido qualquer tipo de Ataque de Negação de Serviço (DoS/DDoS) contra os Servidores ou a Infraestrutura da competição.
+
 **2**.  Não tente utilizar Brute Force no sistema de submissão das flags, pois elas são vacinadas. -.-
+
 **3**.  Não tente trocar *flags* ou *write-ups*durante a competição, nós vamos descobri-lo. ;)
+
 **4**.  Não compartilhe descobertas referentes aos desafios publicamente no canal do IRC, nem de qualquer outra forma com as equipes concorrentes.
+
 **5**.  Nosso canal oficial é o **#Pwn2Win** na rede Freenode (irc.freenode.net), e é essencial que todos players fiquem por lá no período da competição.
+
 **6**.  Os times poderão ter quantos membros desejarem.
+
 **7**.  Dicas poderão ser ditas de forma direta ou indireta no canal, fiquem atentos! :)
+
 **8**.  O Padrão das flags será o seguinte: **CTF-BR{algo_aqui}**
+
 **9**.  A competição terá duração de 48 horas **consecutivas**, sem intervalo.
+
 **10**. Qualquer tipo de violação às regras acarretará em **desclassificação** da equipe.
+
 **11**. Regra mais importante: **divirta-se e aprenda muito! :)**
 
 ## FUNCIONAMENTO:
