@@ -1,6 +1,6 @@
 # Site settings
 title: Pwn2Win CTF
-email: elt@ctf-br.org
+email: elt at ctf-br.org
 description: > # this means to ignore newlines until "baseurl:"
   Pwn2Win CTF - An awesome and hardcore hacking competition!
 baseurl: "" # the subpath of your site, e.g. /blog/
