@@ -9,4 +9,4 @@ categories: general
 
 ## [CTFTime URL](https://ctftime.org/event/961)
 
-## [Stay tuned for news, Follow us!](https://twitter.com/pwn2win)
+## Stay tuned for news, [Follow us!](https://twitter.com/pwn2win)
