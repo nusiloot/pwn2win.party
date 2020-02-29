@@ -7,7 +7,7 @@ permalink: /rules/
 ## Who is behind it?
 
 
-The Pwn2Win CTF is being organized by members from '[Epic Leet Team](https://ctftime.org/team/9061)', a brazilian CTF team.
+The Pwn2Win CTF is being organized by members from '[Epic Leet Team](https://ctftime.org/team/9061){:target="_blank"}', a brazilian CTF team.
 
 ## When:
 
