@@ -3,10 +3,10 @@ title: Pwn2Win CTF
 email: elt at ctf-br.org
 description: > # this means to ignore newlines until "baseurl:"
   Pwn2Win CTF - An awesome and hardcore hacking competition!
+  #Pwn2Win at Freenode
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "https://pwn2win.party" # the base hostname & protocol for your site
 twitter_username: pwn2win
-twitter_username: eltctfbr
 github_username:  pwn2winctf
 comments: false
 
