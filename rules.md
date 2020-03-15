@@ -29,7 +29,7 @@ TBA
 
 ## Illustration:
 
-If you want to help us promoting the event, see the illustration of this year's story [here.](http://bit.ly/Illustration-Pwn2Win2020){:target="_blank"}
+If you want to help us promoting the event, see the illustration of this year's story [here.](http://bit.ly/Illustration-Pwn2Win-2020){:target="_blank"}
 
 ## Prizes:
 
